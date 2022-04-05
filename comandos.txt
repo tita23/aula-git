@@ -1,0 +1,44 @@
+    1  git init
+    2  git status
+    3  git add texto.txt
+    4  git status
+    5  git commit "adicionei o arquivo texto.txt"
+    6  git commit -m "adicionei o arquivo texto.txt"
+    7   git config --global user.email "titagomes32@gmail.com"
+    8  git config --global user.name "herbert"
+    9  git commit -m "adicionei o arquivo texto.txt"
+   10  git log
+   11  git status
+   12  git restore  texto.txt
+   13  git add texto.txt
+   14  git status
+   15  git commit -m "alterei o arquivo texto"
+   16  git log
+   17  git reset HEAD^ 
+   18  GIT LOG
+   19  git log
+   20  git reflog
+   21  git reset 6874836
+   22  git status
+   23  git add texto.txt
+   24  git commit -m 
+   25  git commit -m " alterei denovo"
+   26  mit log
+   27  git log
+   28  git reflog
+   29  git reset 6874836
+   30  git log
+   31  git reflog
+   32  git reset 545887f
+   33  git remote add origin https://github.com/tita23/aula-git.git
+   34  git branch -M main
+   35  git push -u origin main
+   36  git status
+   37  git pull
+   38  git status
+   39  git fetch
+   40  git log
+   41  gig pull
+   42  git pull
+   43  history
+   44  history > comandos.txt
